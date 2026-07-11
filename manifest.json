@@ -1,0 +1,12 @@
+{
+  "name": "方寸",
+  "short_name": "方寸",
+  "display": "standalone",
+  "start_url": "./",
+  "scope": "./",
+  "background_color": "#14162a",
+  "theme_color": "#14162a",
+  "icons": [
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
